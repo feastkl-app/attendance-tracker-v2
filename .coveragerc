@@ -1,0 +1,5 @@
+[run]
+include = attendance_tracker_v2/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
